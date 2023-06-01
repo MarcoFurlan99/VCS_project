@@ -1,3 +1,4 @@
 # README.md
 
-Hi Jacopo, hi Pietro! Just open the file main.ipynb, you don't need to see all the other files, I just added them in case you're curious :)
+Hi Jacopo, hi Pietro! Just open the file main.ipynb :)
+I wanted to add full code, videos, images etc. but I ran out of space on github. I'll send them in other ways
